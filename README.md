@@ -100,7 +100,7 @@
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/misael-rosado-1054a5234/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedinmisael-rosado-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+      <img src="https://img.shields.io/badge/linkedin-misael-rosado-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
     </a>
   </li>
 
@@ -108,7 +108,7 @@
 
   <li>
     <a href="mailto:misaelrosado254@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/misaelrosado254@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/Gmail-misaelrosado254@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
     </a>
   </li>
 </ul>
