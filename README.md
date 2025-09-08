@@ -100,7 +100,7 @@
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/misael-rosado-1054a5234/" target="_blank">
-      <img src="https://img.shields.io/badge/Linkedin-misael-rosado-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+      <img src="https://img.shields.io/badge/misael-rosado-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
     </a>
   </li>
 
