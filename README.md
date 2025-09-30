@@ -20,7 +20,7 @@
 - 💻 Habilidades en **Front-end** y **Back-end**  
 - 🛠 Trabajando en **proyectos de la vida real** para resolver problemas mediante **innovación**  
 - 📚 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades de programación  
-- 🌐 Portafolio personal: [link](http://127.0.0.1:5500/index.html)  
+- 🌐 Portafolio personal: [link](https://misaportafolio.vercel.app/)  
 - 📄 Abierto a **prácticas** o nuevas oportunidades laborales; aquí está [mi CV](https://drive.google.com/file/d/1t-GTwXzys3COQVMcwWL1tTdHrX8IQ6yW/view?usp=sharing)  
 
 <br><br>
